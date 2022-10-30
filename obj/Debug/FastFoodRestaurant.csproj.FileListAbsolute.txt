@@ -1,0 +1,11 @@
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.AssemblyReference.cache
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Form1.resources
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Properties.Resources.resources
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.GenerateResource.cache
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+C:\Users\zhrsn\source\repos\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb
